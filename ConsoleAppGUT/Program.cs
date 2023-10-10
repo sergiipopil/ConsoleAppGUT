@@ -2,6 +2,7 @@
 
 namespace ConsoleAppGUT
 {
+
     class Program
     {
 
